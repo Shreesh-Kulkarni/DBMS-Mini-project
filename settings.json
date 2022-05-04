@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Shreesh Kulkarni\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "python.pythonPath": "path-to-interpreter.python.exe",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true
